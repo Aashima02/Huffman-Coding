@@ -8,7 +8,7 @@ To implement Huffman coding to compress the data using Python.
 ## ALGORITHM:
 ### Step1:
 Get the input string.
-
+ 
 ### Step2:
 Create the required tree nodes.
 
